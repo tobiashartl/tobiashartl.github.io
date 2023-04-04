@@ -20,7 +20,7 @@ You can download my job market paper [here](http://tobiashartl.github.io/files/H
 Peer-Reviewed Publications
 ----------
 <details>
-<summary>Haimerl, P., and <b>Hartl, T.</b> (2023). Modeling the COVID-19 infection rates by regime-switching unobserved components models<a href="https://doi.org/10.3390/econometrics11020010" target="_blank">Modeling the COVID-19 infection rates by regime-switching unobserved components models.</a> <i>Econometrics</i>, 11(2) </summary>
+<summary>Haimerl, P., and <b>Hartl, T.</b> (2023).<a href="https://doi.org/10.3390/econometrics11020010" target="_blank">Modeling the COVID-19 infection rates by regime-switching unobserved components models.</a> <i>Econometrics</i>, 11(2) </summary>
 <hr>
 <b>Abstract:</b> The COVID-19 pandemic is characterized as a recurring sequence of infection ebbs and flows. This article proposes a regime-switching unobserved components (UC) approach to model the trend of COVID-19 infections as a function of this peak and trough pattern. Estimated regime probabilities indicate the prevalence of either an infection up- or down-turning regime for every day of the observational period. This method provides an intuitive real-time analysis of the state of the pandemic as well as a tool to identify structural changes ex post. We find that when applied to U.S. data, the model closely tracks regime changes caused by viral mutations, policy interventions and public behavior.
 <hr>
