@@ -29,7 +29,7 @@ Peer-Reviewed Publications
 
 
 <details>
-<summary><b>Hartl, T.</b>, and Jucknewitz, R. (2022). <a href="https://doi.org/10.1093/jjfinec/nbab022" target="_blank">Multivariate fractional components analysis.</a> <i>Journal of Financial Econometrics</i>, (forthcoming)
+<summary><b>Hartl, T.</b>, and Jucknewitz, R. (2023). <a href="https://doi.org/10.1093/jjfinec/nbab022" target="_blank">Multivariate fractional components analysis.</a> <i>Journal of Financial Econometrics</i>, 21(3), 880–914
 </summary>
 <hr>
 <b>Abstract:</b> We propose a setup for fractionally cointegrated time series which is formulated in terms of latent integrated and short-memory components. It accommodates nonstationary processes with different fractional orders and cointegration of different strengths and is applicable in high-dimensional settings. In an application to realized covariance matrices, we find that orthogonal short- and long-memory components provide a reasonable fit and competitive out-of-sample performance compared with several competing methods.
