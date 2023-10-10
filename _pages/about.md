@@ -94,7 +94,7 @@ Work in Progress
 
 
 <details>
-<summary>Ammon, D., <b>Hartl, T.</b>, and Tschernig, R. (2022). Determining the number of factors in fractionally integrated factor models</summary>
+<summary>Ammon, D., <b>Hartl, T.</b>, and Tschernig, R. (202x). Determining the number of factors in fractionally integrated factor models</summary>
 <hr>
 <b>Abstract:</b> This paper proposes three different approaches to overcome limitations for factor selection in fractionally integrated factor models. Two of our methods for determining the number of factors include the approach of Zhang, Robinson and Yao (2019, JASA) that was designed for identifying the cointegration rank in VAR models. We extend their model selection approach by generalizing it to fractionally integrated factor models. In our two-step procedure we first estimate the cointegration rank as in Zhang, Robinson and Yao (2019, JASA) to obtain the non-stationary fractional factors. In the second step we generalize the model selection criteria by Bai and NG (2002, ECTA) to fractionally integrated factors with memory smaller <i>1/2</i> to obtain the number of asymptotically stationary factors. Before carrying out the second step the non-stationary factors need to be removed from the data. We investigate two alternatives: i) subtract the estimated non-stationary part from the observable variables, ii) project out the non-stationary factors. In our third approach we directly consider the model selection criteria of Bai and NG (2002, ECTA) without prior removing the non-stationary variation in the observable data. In the Monte-Carlo simulations all three methods show satisfactory results, in particular the third approach performs surprisingly well.
 <hr>
@@ -105,7 +105,7 @@ Work in Progress
 
 
 <details>
-<summary><b>Hartl, T.</b>, Tschernig, R., and Weber E. (2022). Multivariate fractional unobserved components and the cyclicality of labor market flows</summary>
+<summary><b>Hartl, T.</b>, Tschernig, R., and Weber E. (202x). Multivariate fractional unobserved components and the cyclicality of labor market flows</summary>
 <hr>
 <b>Abstract:</b> We generalize bivariate unobserved components models by allowing the long- run components to be fractionally integrated. The model decomposes time series into latent components of different persistence and covers a variety of economic variables that are found to exhibit long memory. The model is identified under weaker restrictions than standard unobserved components models and thus allows for a parsimonious parametrization of the cycles. We apply the fractional unobserved components model to extract trend and cycle measures for German labor market flows, where we find unemployment in- and outflows to be cointegrated and I(0.8564), while a linear combination that is I(0.5537) exists.
 <hr>
