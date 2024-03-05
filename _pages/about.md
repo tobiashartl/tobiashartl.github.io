@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-...to my website. I'm a Postdoc in econometrics at the University of Regensburg and the Institute for Employment Research (IAB) Nuremberg, and a visiting research scholar at the Economics department at Princeton University.
+...to my website. I'm a Postdoc in econometrics at the University of Regensburg and the Institute for Employment Research (IAB) Nuremberg.
 
 In my research, I aim to improve the econometric toolkit to address the puzzles of 
 our time in a data-driven way. In particular, I develop estimation methods for strongly 
