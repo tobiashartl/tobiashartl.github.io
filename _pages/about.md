@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-...to my website. I'm a Postdoc in econometrics at the University of Regensburg and the Institute for Employment Research (IAB) Nuremberg.
+...to my website. I'm an Assistant Professor of Econometrics at the Department of Quantitative Economics, Maastricht University.
 
-In my research, I aim to improve the econometric toolkit to address the puzzles of 
-our time in a data-driven way. In particular, I develop estimation methods for strongly 
-persistent, non-stationary time series. 
+In my research, I aim to improve the econometric toolkit to address the pressing puzzles of our time in a data-driven way. In particular, I develop estimation methods for strongly 
+persistent, non-stationary, possibly high-dimensional time series. 
 
 You can download my job market paper [here](http://tobiashartl.github.io/files/Hartl_fUCM.pdf){:target="_blank"}, and my CV [here](http://tobiashartl.github.io/files/CV_Tobias_Hartl.pdf){:target="_blank"}.
 
