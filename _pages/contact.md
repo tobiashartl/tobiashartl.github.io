@@ -7,9 +7,10 @@ author_profile: true
 
 
 Tobias Hartl  
-University of Regensburg  
-Department of Economics  
-Universitätsstr. 31  
-D-93053 Regensburg  
-Germany  
-[tobias1.hartl@ur.de](mailto:tobias1.hartl@ur.de)  
+Maastricht University
+Department of Quantitative Economics 
+School of Business and Economics
+Tongersestraat 53
+6211 LM Maastricht
+The Netherlands  
+[tobias.hartl@maastrichtuniversity.nl](mailto:tobias.hartl@maastrichtuniversity.nl)  
