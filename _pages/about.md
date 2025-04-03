@@ -51,10 +51,11 @@ Working Papers
 
 
 <details>
-<summary><b>Hartl, T.</b> (2023). <a href="http://tobiashartl.github.io/files/Hartl_fUCM.pdf" target="_blank">The fractional unobserved components model: a generalization of trend-cycle decompositions to data of unknown persistence</a></summary>
+<summary><b>Hartl, T.</b> (2023). <a href="http://tobiashartl.github.io/files/Hartl_fUCM.pdf" target="_blank">Robust trend estimation for strongly persistent data
+with unobserved memory</a></summary>
 <hr>
-<b>Abstract:</b> This paper provides a data-driven solution to the specification of long-run dynamics in trend-cycle decompositions by introducing a state space model of form y<sub>t</sub> = x<sub>t</sub> + c<sub>t</sub> , where the trend  x<sub>t</sub> ∼ I(d)  is fractionally integrated of order d, whereas c<sub>t</sub> represents a stationary cyclical component. The model encompasses the literature that typically assumes x<sub>t</sub> ∼ I(1) or x<sub>t</sub> ∼ I(2), but also allows for intermediate solutions between integer-integrated specifications and thus for richer long-run dynamics. Trend and cycle are estimated via the Kalman filter, for which a closed-form solution is provided. The integration order d is treated as unknown and is estimated jointly with the other model parameters. The paper derives the asymptotic theory for parameter estimation under relatively mild assumptions. While the proofs are carried out for a prototypical model, the asymptotic theory carries over to generalizations allowing for deterministic terms and correlated innovations. 
-	An application to monthly sea surface temperature anomalies reveals a smooth, diverging trend component, together with a cyclical component that is closely coupled to the Oceanic Nino Index.
+<b>Abstract:</b> Economic analysis is often based on pre-filtered, de-trended, or seasonally adjusted data. 
+	Underlying filtering methods make strong assumptions about the memory of the series to be filtered, and inference about the memory is limited particularly when persistent cyclical variation overshadows the trend. This paper introduces a robust and data-driven method for filtering persistent series that requires no prior assumptions about the memory. It makes three primary contributions: first, it generalizes unobserved components (UC) models to fractionally integrated trends, making prior assumptions about the trend memory redundant while retaining the advantages of the state space structure of UC models; second, it establishes the asymptotic estimation theory for fractional UC models under mild assumptions; and third, it presents a computationally efficient estimator for the trend by deriving the closed-form solution to the Kalman filter optimization problem. An application to temperature anomalies highlights the effectiveness by revealing a smooth, diverging trend amid strongly persistent cyclical variation, and rejects the hypothesis of an integer integration order. 
 <hr>
 </details>
 
