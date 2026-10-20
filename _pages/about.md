@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-...to my website. I'm an Assistant Professor of Econometrics at the Department of Quantitative Economics, Maastricht University.
+...to my website. I am Assistant Professor of Econometrics at the Department of Quantitative Economics, Maastricht University.
 
 In my research, I aim to improve the econometric toolkit to address the pressing puzzles of our time in a data-driven way. In particular, I develop estimation methods for strongly 
 persistent, non-stationary, possibly high-dimensional time series. 
