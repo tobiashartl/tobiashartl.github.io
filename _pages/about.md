@@ -19,7 +19,8 @@ You can download my CV [here](http://tobiashartl.github.io/files/CV_Tobias_Hartl
 Peer-Reviewed Publications
 ----------
 <details>
-<summary><b>Hartl, T.</b> (2026). <a href="https://doi.org/10.1080/07350015.2025.2520858" target="_blank">Robust trend estimation for strongly persistent data with unobserved memory</a></summary>
+<summary><b>Hartl, T.</b> (2026). <a href="https://doi.org/10.1080/07350015.2025.2520858" target="_blank">Robust trend estimation for strongly persistent data with unobserved memory</a><i>Journal of Business and Economic Statistics</i>, 44(1), 242–254
+</summary>
 <hr>
 <b>Abstract:</b> Economic analysis is often based on pre-filtered, de-trended, or seasonally adjusted data. Underlying filtering methods make strong assumptions about the memory of the series to be filtered, and inference about the memory is limited particularly when persistent cyclical variation overshadows the trend. This article introduces a data-driven method for filtering persistent series that requires no prior assumptions about the memory, thus, is robust to the actual memory of the data. It makes three primary contributions: first, it generalizes unobserved components (UC) models to fractionally integrated trends, making prior assumptions about the trend memory redundant while retaining the advantages of the state space structure of UC models; second, it establishes the asymptotic estimation theory for fractional UC models under mild assumptions; and third, it presents a computationally efficient estimator for the trend by deriving the closed-form solution to the Kalman filter optimization problem. 
 <hr>
