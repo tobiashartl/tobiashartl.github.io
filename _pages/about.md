@@ -13,11 +13,26 @@ redirect_from:
 In my research, I aim to improve the econometric toolkit to address the pressing puzzles of our time in a data-driven way. In particular, I develop estimation methods for strongly 
 persistent, non-stationary, possibly high-dimensional time series. 
 
-You can download my job market paper [here](http://tobiashartl.github.io/files/Hartl_fUCM.pdf){:target="_blank"}, and my CV [here](http://tobiashartl.github.io/files/CV_Tobias_Hartl.pdf){:target="_blank"}.
+You can download my CV [here](http://tobiashartl.github.io/files/CV_Tobias_Hartl.pdf){:target="_blank"}. I am currently working on the NWO-funded project **UnveilML**, where I combine time series econometrics with machine learning methods to improve estimation and inference for latent time series. Click [here](https://www.maastrichtuniversity.nl/news/unveilml-combining-econometrics-and-machine-learning-improve-estimation-factors-we-cannot-see){:target="_blank"} for a broad introduction to the project.
 
 
 Peer-Reviewed Publications
 ----------
+<details>
+<summary><b>Hartl, T.</b> (2026). <a href="https://doi.org/10.1080/07350015.2025.2520858" target="_blank">Robust trend estimation for strongly persistent data with unobserved memory</a></summary>
+<hr>
+<b>Abstract:</b> Economic analysis is often based on pre-filtered, de-trended, or seasonally adjusted data. Underlying filtering methods make strong assumptions about the memory of the series to be filtered, and inference about the memory is limited particularly when persistent cyclical variation overshadows the trend. This article introduces a data-driven method for filtering persistent series that requires no prior assumptions about the memory, thus, is robust to the actual memory of the data. It makes three primary contributions: first, it generalizes unobserved components (UC) models to fractionally integrated trends, making prior assumptions about the trend memory redundant while retaining the advantages of the state space structure of UC models; second, it establishes the asymptotic estimation theory for fractional UC models under mild assumptions; and third, it presents a computationally efficient estimator for the trend by deriving the closed-form solution to the Kalman filter optimization problem. 
+<hr>
+</details>
+
+
+<details>
+<summary><b>Hartl, T.</b>, Hutter, C., and Weber, E. (2026).<a href="https://doi.org/10.1016/j.econmod.2025.107434" target="_blank">Matching for three: big data evidence on search activity of workers, firms, and employment service.</a> <i>Economic Modelling</i>, 155, 107434 </summary>
+<hr>
+<b>Abstract:</b> The standard labour market matching function neglects a substantial variation of hirings. A crucial driver of this latent part is the search intensity of job seekers and firms, as well as the placement intensity of employment agencies. However, there is still a lack of integration of all three search and placement intensities into a unified theoretical framework. Their combined labour market effects have not been estimated so far. We feed all three intensities into the theoretical framework of a labour market matching function to estimate their impact on the job finding rate – effects which are not settled a priori. This could provide important stylised facts for subsequent theory building. For measuring the search and placement intensities, we use big data on online activity obtained from the job exchange of the German Federal Employment Agency and from its internal placement-software. The results show that all three intensities significantly contribute to the variation in job findings beyond vacancies and unemployment. During the COVID-19 crisis, reduced search intensities accounted for 44 percent of lost hirings and 16 percent of the labour market related increase in unemployment.
+<hr>
+</details>
+
 <details>
 <summary>Haimerl, P., and <b>Hartl, T.</b> (2023).<a href="https://doi.org/10.3390/econometrics11020010" target="_blank">Modeling the COVID-19 infection rates by regime-switching unobserved components models.</a> <i>Econometrics</i>, 11(2) </summary>
 <hr>
@@ -49,24 +64,6 @@ Peer-Reviewed Publications
 Working Papers
 -----------
 
-
-<details>
-<summary><b>Hartl, T.</b> (2023). <a href="http://tobiashartl.github.io/files/Hartl_fUCM.pdf" target="_blank">Robust trend estimation for strongly persistent data
-with unobserved memory</a></summary>
-<hr>
-<b>Abstract:</b> Economic analysis is often based on pre-filtered, de-trended, or seasonally adjusted data. 
-	Underlying filtering methods make strong assumptions about the memory of the series to be filtered, and inference about the memory is limited particularly when persistent cyclical variation overshadows the trend. This paper introduces a robust and data-driven method for filtering persistent series that requires no prior assumptions about the memory. It makes three primary contributions: first, it generalizes unobserved components (UC) models to fractionally integrated trends, making prior assumptions about the trend memory redundant while retaining the advantages of the state space structure of UC models; second, it establishes the asymptotic estimation theory for fractional UC models under mild assumptions; and third, it presents a computationally efficient estimator for the trend by deriving the closed-form solution to the Kalman filter optimization problem. An application to temperature anomalies highlights the effectiveness by revealing a smooth, diverging trend amid strongly persistent cyclical variation, and rejects the hypothesis of an integer integration order. 
-<hr>
-</details>
-
-
-<details>
-<summary><b>Hartl, T.</b>, Hutter, C., and Weber, E. (2021). <a href="https://doku.iab.de/discussionpapers/2021/dp0121.pdf" target="_blank">Matching for three: big data evidence on search activity of workers, firms, and employment service</a></summary>
-<hr>
-<b>Abstract:</b> We generate measures for search intensity of employers and job seekers and - as a novel feature - for placement intensity of employment agencies. For this purpose, we tap big data on online activity from the job exchange of the German Federal Employment Agency and its internal placement-software. We use these data to estimate an enhanced matching function where the efficiency parameter varies with the search and placement intensities. The results show that the intensity measures significantly contribute to the variation in job findings.
-<hr>
-</details>
-
 <details>
 <summary><b>Hartl, T.</b>, Tschernig, R., and Weber, E. (2020). <a href="https://arxiv.org/pdf/2005.03988.pdf" target="_blank">Fractional trends in unobserved components models</a></summary>
 <hr>
@@ -89,27 +86,6 @@ with unobserved memory</a></summary>
 </details>
 
 
-Work in Progress
------------
-
-
-<details>
-<summary>Ammon, D., <b>Hartl, T.</b>, and Tschernig, R. (202x). Determining the number of factors in fractionally integrated factor models</summary>
-<hr>
-<b>Abstract:</b> This paper proposes three different approaches to overcome limitations for factor selection in fractionally integrated factor models. Two of our methods for determining the number of factors include the approach of Zhang, Robinson and Yao (2019, JASA) that was designed for identifying the cointegration rank in VAR models. We extend their model selection approach by generalizing it to fractionally integrated factor models. In our two-step procedure we first estimate the cointegration rank as in Zhang, Robinson and Yao (2019, JASA) to obtain the non-stationary fractional factors. In the second step we generalize the model selection criteria by Bai and NG (2002, ECTA) to fractionally integrated factors with memory smaller <i>1/2</i> to obtain the number of asymptotically stationary factors. Before carrying out the second step the non-stationary factors need to be removed from the data. We investigate two alternatives: i) subtract the estimated non-stationary part from the observable variables, ii) project out the non-stationary factors. In our third approach we directly consider the model selection criteria of Bai and NG (2002, ECTA) without prior removing the non-stationary variation in the observable data. In the Monte-Carlo simulations all three methods show satisfactory results, in particular the third approach performs surprisingly well.
-<hr>
-</details>
-
-
-
-
-
-<details>
-<summary><b>Hartl, T.</b>, Tschernig, R., and Weber E. (202x). Multivariate fractional unobserved components and the cyclicality of labor market flows</summary>
-<hr>
-<b>Abstract:</b> We generalize bivariate unobserved components models by allowing the long- run components to be fractionally integrated. The model decomposes time series into latent components of different persistence and covers a variety of economic variables that are found to exhibit long memory. The model is identified under weaker restrictions than standard unobserved components models and thus allows for a parsimonious parametrization of the cycles. We apply the fractional unobserved components model to extract trend and cycle measures for German labor market flows, where we find unemployment in- and outflows to be cointegrated and I(0.8564), while a linear combination that is I(0.5537) exists.
-<hr>
-</details>
 
 
 
